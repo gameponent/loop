@@ -1,0 +1,5 @@
+{
+  "name": "loop-test",
+  "paths": ["../../.."],
+  "local": ["tile", "sprite", "canvas", "loop"]
+}
